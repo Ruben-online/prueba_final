@@ -4,7 +4,7 @@ jnsdjkandskjasnjfkndsngjsdngj g asjdngsgg jasndjans :+1: :shipit:
 yo solo se que no se nada
 jasdnfjakdsnsg
 ```
-@DanielSajvin por ayudarme a estudiar
+@ DanielSajvin por ayudarme a estudiar
 lista anidada
 - primer elemento de la lista.
-- segundo elemento de la lista.
+     - segundo elemento de la lista.
