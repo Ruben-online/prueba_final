@@ -5,7 +5,7 @@ yo solo se que no se nada
 jasdnfjakdsnsg
 ```
 
-@DanielSajvin por ayudarme a estudiar
+@Daniel Sajvin por ayudarme a estudiar
 
 lista anidada
 - primer elemento de la lista.
