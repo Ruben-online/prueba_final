@@ -5,8 +5,9 @@ yo solo se que no se nada
 jasdnfjakdsnsg
 ```
 
-@Daniel Sajvin por ayudarme a estudiar
-
-lista anidada
+1. Lista anidada
 - primer elemento de la lista.
-     - segundo elemento de la lista.
+     - segundo elmento de la lista.
+
+
+@DanielSajvin por ayudarme a estudiar.
