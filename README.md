@@ -9,5 +9,4 @@ jasdnfjakdsnsg
 - primer elemento de la lista.
      - segundo elmento de la lista.
 
-
-@ DanielSajvin por ayudarme a estudiar.
+@DanielSajvin por ayudarme a estudiar.
