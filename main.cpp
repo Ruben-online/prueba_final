@@ -36,6 +36,8 @@ int main() {
 		if (palabra[i] == 'z') palabra[i] = 'c';
 
 		cout << palabra[i];
+
+		cout << "ALJSLDKFJSALDJFLASJKDFASDJFLASDJFLASDJFLADSJF"<<endl<<endl;
 	}
 
 	return 0;
